@@ -1,5 +1,5 @@
 # Git注释 
 *.[oa]
-*~
 !lib.a
 build/
+# add new line
