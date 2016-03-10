@@ -1,3 +1,3 @@
 test.rb
 SnapshotB add
-branch master add
+both master and testing branch add
